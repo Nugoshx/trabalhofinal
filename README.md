@@ -1,2 +1,2 @@
 # trabalhofinal
-Um trabalho finalde programação 
+Um trabalho final de programação 
